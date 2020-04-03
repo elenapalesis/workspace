@@ -1,10 +1,18 @@
-# workspace
+# Workspace
 Configurations for my personal workspace
 
-## THEMING!
+## Applications
+* [Telegram](https://telegram.org/)
+* emacs mac client
+* [Bear](https://bear.app/)
+
+## Themes
 We like to use [https://draculatheme.com/](Dracula) themes when possible!
 * [git clone https://github.com/dracula/telegram.git](Telegram)
 
+## Window manager & widgets
+* [yabai](https://github.com/koekeishiya/yabai)
+* [Ubersicht](http://tracesof.net/uebersicht) for widgets!
 
 ## emacs
 
@@ -14,16 +22,10 @@ brew tap railwaycat/emacsmacport
 brew cask install emacs-mac-spacemacs-icon
 ```
 
-
 ## brew install
 * emacs
-* cask/karabiner-elements
 * oh-my-zsh
 * zsh-completions
 
-## applications
-* telegram
-
-
-## things to investigate
-* (Spicetify)[https://github.com/khanhas/Spicetify]
+## Things to investigate
+* [Spicetify](https://github.com/khanhas/Spicetify)
