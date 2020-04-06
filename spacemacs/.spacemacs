@@ -313,6 +313,12 @@ explicitly specified that a variable should be set before a package is loaded,
 you should place your code here."
   )
 
+;; Elena's keybindings
+(global-set-key (kbd "<A-C-up>") 'windmove-up)
+(global-set-key (kbd "<A-C-down>") 'windmove-down)
+(global-set-key (kbd "<A-C-left>") 'windmove-left)
+(global-set-key (kbd "<A-C-right>") 'windmove-right)
+
 ;; Do not write anything past this comment. This is where Emacs will
 ;; auto-generate custom variable definitions.
 (custom-set-variables
