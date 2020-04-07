@@ -22,7 +22,7 @@ Install the [emacs mac port](https://github.com/railwaycat/homebrew-emacsmacport
 brew tap railwaycat/emacsmacport
 brew cask install emacs-mac-spacemacs-icon
 ```
-* projectile in combination with searching
+* `SPC + T` -> to get to themes
 
 
 ## brew install
